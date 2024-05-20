@@ -14,3 +14,4 @@ Key Features:
 5. Integration Panel : In this project, three HTML pages that also contains the functionality of CSS and JavaScript are integrated efficiently which makes it easier for the user to slide through different webpages and view the different webpages on a single click easily.
 
 ![First Panel](https://github.com/Gauri123412/Landing-Page/blob/main/Screenshot%20(3289).png)
+![Sign Up Panel](https://github.com/Gauri123412/Landing-Page/blob/main/Screenshot%20(3290).png)
