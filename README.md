@@ -17,3 +17,4 @@ Key Features:
 ![Sign Up Panel](https://github.com/Gauri123412/Landing-Page/blob/main/Screenshot%20(3290).png)
 ![Acknowledgement Panel](https://github.com/Gauri123412/Landing-Page/blob/main/Screenshot%20(3293).png)
 ![Features 1 Panel](https://github.com/Gauri123412/Landing-Page/blob/main/Screenshot%20(3291).png)
+![Features 2 Panel](https://github.com/Gauri123412/Landing-Page/blob/main/Screenshot%20(3292).png)
