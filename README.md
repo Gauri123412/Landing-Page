@@ -15,3 +15,4 @@ Key Features:
 
 ![First Panel](https://github.com/Gauri123412/Landing-Page/blob/main/Screenshot%20(3289).png)
 ![Sign Up Panel](https://github.com/Gauri123412/Landing-Page/blob/main/Screenshot%20(3290).png)
+![Acknowledgement Panel](https://github.com/Gauri123412/Landing-Page/blob/main/Screenshot%20(3293).png)
